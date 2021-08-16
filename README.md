@@ -1,0 +1,2 @@
+# OptimizeNote
+为了我的知乎上的最优化笔记做的manim动画源码
